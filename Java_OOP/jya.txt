@@ -1,0 +1,25 @@
+Java Dersleri - 46 : Mülakat Soruları | Java Quiz | HashMap Java Programlama Sınav Soruları #java
+ctrl+shift+f kod duzenle
+
+while(!q.isEmpty())          // q'nun ilk elemani boş mu fln filan
+
+if(metin.equals(metin2))        //  metin metin2ye esit mi
+
+for(int i : a)                  //i' a dizisini 0. indexinden baslayarak gezzsin
+
+foreach de Object türünde tanımlayabilirsin tüm değişkenlerin üst sınıfıdır int string hepsini gezer 
+
+EGİTİM TAMAMEN BİTTİGİNDE DOSYALARI DRİVERE AT
+
+
+---------------------------
+giris ekrani
+yeni kayıt olusturma
+arkaplan foto
+oyun klasorune erisim
+dolar euro kuru
+superlig puan durumu //bi tik hayal
+hava durumu
+saat tarih
+kayıt olurken hangi fonksiyonlari istedigi sorulacak
+kayit olurken jpasswordfield unutma ve furkiturki onay metni hazirla checkboxla kabul edilsin
