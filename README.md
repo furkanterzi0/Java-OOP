@@ -1,6 +1,6 @@
 # Java OOP
 
-Java_OOP is a repository focused on demonstrating Object-Oriented Programming (OOP) concepts using Java. This repository includes a variety of examples, exercises, and small projects designed to help users understand key OOP principles such as inheritance, polymorphism, encapsulation, and abstraction.
+Java - OOP is a repository focused on demonstrating Object-Oriented Programming (OOP) concepts using Java. This repository includes a variety of examples, exercises, and small projects designed to help users understand key OOP principles such as inheritance, polymorphism, encapsulation, and abstraction.
 
 ## Features:
 - **Object-Oriented Principles:** Clear examples for core OOP concepts, such as classes, objects, methods, and constructors.
